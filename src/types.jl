@@ -1,4 +1,4 @@
-abstract type DataLoader end    # For dispatch
+abstract type DataLayer end    # For dispatch
 abstract type Presenter end     # For dispatch
 
 
@@ -12,21 +12,25 @@ struct Side <: Ingredient
     name::String
 end
 
+struct DrinkComponent
+    ingredient::Ingredient
+    mandatory::Bool
+    quantity
+end
+
 struct Recipe
-    algohols::Vector{Alcohol}
+    name::String
+    alcohols::Vector{Alcohol}
     sides::Vector{Side}
     description::String
 end
 
-ingredients(r::Recipe) = [r.alcohols; r.sides]
-Base.length(r::Recipe) = length(r.alcohols) + length(r.sides)
-
 struct DrinkBook
-    recepies::Vector{Recipe}
+    recipes::Vector{Recipe}
 end
 
 struct BarCabinet
-    algohols::Vector{Alcohol}
+    alcohols::Vector{Alcohol}
     sides::Vector{Side}
 end
 
