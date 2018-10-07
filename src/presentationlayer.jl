@@ -1,0 +1,2 @@
+struct TerminalPresenter <: Presenter
+end

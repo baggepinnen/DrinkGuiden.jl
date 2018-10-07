@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Barskapet>
+    <Ingredients>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>64</Price>
+        <Name>Vodka</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>43</Price>
+        <Name>Absolut Berri Acai</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>50</Price>
+        <Name>Passoa</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>6</Price>
+        <Name>Absolut Vanilla</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>5</Price>
+        <Name>Cider</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>5</Price>
+        <Name>Sprite</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>4</Price>
+        <Name>Energidryck</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>3</Price>
+        <Name>Juice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>4</Price>
+        <Name>Coca Cola</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>4</Price>
+        <Name>Limesaft</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>5</Price>
+        <Name>Fruktsoda</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>6</Price>
+        <Name>Grenadine</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>5</Price>
+        <Name>Mjölk</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity>To be implemented</Quantity>
+        <Price>50</Price>
+        <Name>Sourz Apple</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Malibu</Name>
+        <Spritsort>Unknown</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>37</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>100</Price>
+        <Name>Sambuca</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Tonic Water</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Citronjuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Lime</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Dooleys</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Minttu</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>50</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Cointreau</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Absolut Raspberri</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Sourz Redberry</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>15</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Guldrom</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Chokladmjölk</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Is</Name>
+      </Ingredient>
+    </Ingredients>
+  </Barskapet>
+  <Systembolaget>
+    <Ingredients>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>64</Price>
+        <Name>Vodka</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>43</Price>
+        <Name>Absolut Berri Acai</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>50</Price>
+        <Name>Passoa</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>55</Price>
+        <Name>Bacardi Razz</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>59</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Sprite</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>4</Price>
+        <Name>Energidryck</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>4</Price>
+        <Name>Tranbärsjuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Captain Morgan</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>6</Price>
+        <Name>Absolut Vanilla</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Ginger Ale</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>6</Price>
+        <Name>Grenadine</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Citronvand</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>50</Price>
+        <Name>Sourz Apple</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>4</Price>
+        <Name>Coca Cola</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Mjölk</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Ananasjuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>6</Price>
+        <Name>Kokosmjölk</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>4</Price>
+        <Name>Limesaft</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>4</Price>
+        <Name>Bacardi Limon</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>49</Price>
+        <Name>Licor 43</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>37</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>4</Price>
+        <Name>Ljus rom</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>30</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Fruktsoda</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Hallon</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>5</Price>
+        <Name>Cider</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>100</Price>
+        <Name>Sambuca</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>100</Price>
+        <Name>Mörk Rom</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Apelsinjuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Midori</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Tonic Water</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Pisang Ambon</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Grapefruktjuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Guanabanajuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Cointreau</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Bols amaretto</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>20</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Gin</Name>
+        <Spritsort>Gin</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Jägermeister</Name>
+        <Spritsort>Bitter</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>35</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Malibu</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>21</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Tequila</Name>
+        <Spritsort>Tequila</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>37</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Citronjuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Äppejuice</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Blue Curacao</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>20</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Kahlua</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>20</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Bananlikör</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>20</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Galliano</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>30</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>false</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Lime</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Dooleys</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>17</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Minttu</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>50</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Päronsoda</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Absolut Raspberri</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Sourz Redberry</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>15</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Guldrom</Name>
+        <Spritsort>Rom</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Chokladmjölk</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Smirnoff Green Apple</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Absolut Mandrin</Name>
+        <Spritsort>Vodka</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>40</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Is</Name>
+      </Ingredient>
+      <Ingredient xsi:type="Sprit">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Baileys</Name>
+        <Spritsort>Likör</Spritsort>
+        <Volume>0</Volume>
+        <Percentage>20</Percentage>
+      </Ingredient>
+      <Ingredient xsi:type="Tillbehör">
+        <Mandatory>true</Mandatory>
+        <Quantity />
+        <Price>0</Price>
+        <Name>Jordgubbar</Name>
+      </Ingredient>
+    </Ingredients>
+  </Systembolaget>
+  <Drinkboken>
+    <Drinks>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Bull Hunter</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Jägermeister</Name>
+            <Spritsort>Bitter</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>38</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>45</Grade>
+        <Name>Grezze</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Sourz Apple</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Hugo</Name>
+        <Glass>Cocktail</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ananasjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Malibu</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Long beach ice tea</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Cointreau</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>4</Price>
+            <Name>Ljus rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tequila</Name>
+            <Spritsort>Tequila</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tranbärsjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Mr Casino</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>55</Price>
+            <Name>Bacardi Razz</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>59</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Passoa</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tranbärsjuice</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Madrid</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>49</Price>
+            <Name>Licor 43</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Naughty</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Bacardi Limon</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>55</Price>
+            <Name>Bacardi Razz</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>59</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Redlight District</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Absolut Vanilla</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>55</Price>
+            <Name>Bacardi Razz</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>59</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tranbärsjuice</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>77</Grade>
+        <Name>P2</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Absolut Vanilla</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Sourz Apple</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Steve</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Passoa</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tequila</Name>
+            <Spritsort>Tequila</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>61</Grade>
+        <Name>Vanilla Lime</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Absolut Vanilla</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Cider</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Grenadine</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Zoo</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Absolut Vanilla</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Cointreau</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Hallon</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Sommarprinsessan</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>49</Price>
+            <Name>Licor 43</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Pisang Ambon</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Acid Banana</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Fruktsoda</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Grapefruktjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Pisang Ambon</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Sourz Apple</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Birdie Nam Nam</Name>
+        <Glass>Shotglas</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Ljus rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Pisang Ambon</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Södermalmare</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Guanabanajuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Passoa</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>747</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tranbärsjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Watermelon</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Cointreau</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Midori</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tranbärsjuice</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Cazper</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>49</Price>
+            <Name>Licor 43</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Midori</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Passoa</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Midori 43</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>49</Price>
+            <Name>Licor 43</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Midori</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Atlantic</Name>
+        <Glass>Cocktail</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>50</Price>
+            <Name>Cointreau</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Ljus rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Hotell Riley</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ananasjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Bols amaretto</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>20</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Malibu</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Midori Splice</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ananasjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Malibu</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Midori</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Studio 54</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Midori</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Tonic Water</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Fidel Castro</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ginger Ale</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>100</Price>
+            <Name>Mörk Rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>DJ</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Bacardi Limon</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Fruktsoda</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Midori</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>84</Grade>
+        <Name>Virgin Cuba Libre</Name>
+        <Glass>Valfritt</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Appletini</Name>
+        <Glass>Cocktail</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Citronjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>50</Price>
+            <Name>Sourz Apple</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Appletini-JD</Name>
+        <Glass>Cocktail</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Citronjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>1 cl</Quantity>
+            <Price>50</Price>
+            <Name>Sourz Apple</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Äppejuice</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Polar Bear</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>0</Price>
+            <Name>Blue Curacao</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>20</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>White Russian</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>0</Price>
+            <Name>Kahlua</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>20</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Tequila Sunrise</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Grenadine</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>0</Price>
+            <Name>Tequila</Name>
+            <Spritsort>Tequila</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Tequila Screwdriver</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>0</Price>
+            <Name>Tequila</Name>
+            <Spritsort>Tequila</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>54</Grade>
+        <Name>GT</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>0</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Tonic Water</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Flugel</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Tranbärsjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Harvey Wallbanger</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>1 cl</Quantity>
+            <Price>0</Price>
+            <Name>Galliano</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Freddy Fudpucker</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>1 cl</Quantity>
+            <Price>0</Price>
+            <Name>Galliano</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Greyhound</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Grapefruktjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>San Francisco</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>0</Price>
+            <Name>Bananlikör</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>20</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Grenadine</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>58</Grade>
+        <Name>Cuba Libre</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Lime</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>4</Price>
+            <Name>Ljus rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>37</Grade>
+        <OwnComments>Ok, men inte mer</OwnComments>
+        <Name>JägerPäron</Name>
+        <Glass>Grogglas</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>5 cl</Quantity>
+            <Price>0</Price>
+            <Name>Jägermeister</Name>
+            <Spritsort>Bitter</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>35</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Päronsoda</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Exotic</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ananasjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Grenadine</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>0</Price>
+            <Name>Malibu</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>21</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>97</Grade>
+        <OwnComments>Riktigt gödde</OwnComments>
+        <Name>Bagges MonsterMorgan</Name>
+        <Glass>Tumlare</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>5</Price>
+            <Name>Captain Morgan</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Limesaft</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>98</Grade>
+        <OwnComments>Epic</OwnComments>
+        <Name>After Eight Mjölkgrogg</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>6 cl</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>0</Price>
+            <Name>Minttu</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>50</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>24</Grade>
+        <OwnComments />
+        <Name>Screwdriver</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Apelsinjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>49</Grade>
+        <OwnComments>Helt ok för att vara med körsbärssmak</OwnComments>
+        <Name>Pissnödig</Name>
+        <Glass>Tumlare</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>0</Price>
+            <Name>Absolut Raspberri</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>0</Price>
+            <Name>Sourz Redberry</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>15</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>89</Grade>
+        <OwnComments>Riktigt fin och förvånansvärt mild</OwnComments>
+        <Name>Mr Sexys Pizza</Name>
+        <Glass>Tumlare</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2 cl</Quantity>
+            <Price>0</Price>
+            <Name>Cointreau</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>3 cl</Quantity>
+            <Price>0</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>3</Grade>
+        <OwnComments>Inte så god, nästintill vidrig</OwnComments>
+        <Name>Samcoca</Name>
+        <Glass>Tumlare</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>3 cl</Quantity>
+            <Price>0</Price>
+            <Name>Guldrom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>1 cl</Quantity>
+            <Price>100</Price>
+            <Name>Sambuca</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Red Bull Vodka</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Energidryck</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4 cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>99</Grade>
+        <OwnComments>Kan även serveras varm</OwnComments>
+        <Name>Oboy Minttu</Name>
+        <Glass>Valfritt</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Chokladmjölk</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4cl</Quantity>
+            <Price>0</Price>
+            <Name>Minttu</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>50</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>3-kant</Name>
+        <Glass>Valfritt</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ananasjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Päronsoda</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4cl</Quantity>
+            <Price>0</Price>
+            <Name>Smirnoff Green Apple</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Sprite</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>43an</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4-6cl</Quantity>
+            <Price>49</Price>
+            <Name>Licor 43</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>37</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>491</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2cl</Quantity>
+            <Price>0</Price>
+            <Name>Gin</Name>
+            <Spritsort>Gin</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ginger Ale</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2cl</Quantity>
+            <Price>4</Price>
+            <Name>Ljus rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Absolut 2002</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4cl</Quantity>
+            <Price>0</Price>
+            <Name>Absolut Mandrin</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Ananasjuice</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>1cl</Quantity>
+            <Price>0</Price>
+            <Name>Cointreau</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Grenadine</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>1cl</Quantity>
+            <Price>0</Price>
+            <Name>Malibu</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>21</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Atombomb</Name>
+        <Glass>Shot</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>Hälften</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>6</Price>
+            <Name>Grenadine</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>Hälften</Quantity>
+            <Price>100</Price>
+            <Name>Sambuca</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Coke float</Name>
+        <Glass>Kaffeglas</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>Hälften</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Grovspool</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2cl</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Is</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Grovespool B</Name>
+        <Glass>Highball</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2cl</Quantity>
+            <Price>0</Price>
+            <Name>Baileys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>20</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>4</Price>
+            <Name>Coca Cola</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>4cl</Quantity>
+            <Price>64</Price>
+            <Name>Vodka</Name>
+            <Spritsort>Vodka</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>40</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Geenas Sweet Tooth</Name>
+        <Glass>Whiskeyglas</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>3</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Is</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>3</Quantity>
+            <Price>4</Price>
+            <Name>Ljus rom</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>30</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Maldiverna</Name>
+        <Glass>Whiskeyglas</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Is</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>2</Quantity>
+            <Price>0</Price>
+            <Name>Malibu</Name>
+            <Spritsort>Rom</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>21</Percentage>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+      <Drink>
+        <Grade>0</Grade>
+        <Name>Midsommardröm</Name>
+        <Glass>Högt glas</Glass>
+        <Description>Ingen beskrivning har angetts</Description>
+        <Ingredients>
+          <Ingredient xsi:type="Sprit">
+            <Mandatory>true</Mandatory>
+            <Quantity>5cl</Quantity>
+            <Price>0</Price>
+            <Name>Dooleys</Name>
+            <Spritsort>Likör</Spritsort>
+            <Volume>0</Volume>
+            <Percentage>17</Percentage>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>0</Price>
+            <Name>Jordgubbar</Name>
+          </Ingredient>
+          <Ingredient xsi:type="Tillbehör">
+            <Mandatory>true</Mandatory>
+            <Quantity />
+            <Price>5</Price>
+            <Name>Mjölk</Name>
+          </Ingredient>
+        </Ingredients>
+      </Drink>
+    </Drinks>
+  </Drinkboken>
+</SaveFile>

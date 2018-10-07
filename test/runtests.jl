@@ -1,7 +1,18 @@
 using DrinkGuiden
-using Base.Test
+using Test
 
 @testset "DrinkGuiden.jl" begin
-    # Write your own tests here.
-    @test 1 == 2
+
+@testset "Datalayer" begin
+include("testdata.jl")
+end
+
+@testset "Logiclayer" begin
+include("testlogic.jl")
+end
+
+@testset "Presentationlayer" begin
+include("testpresentation.jl")
+end
+
 end

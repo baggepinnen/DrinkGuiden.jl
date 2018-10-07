@@ -1,6 +1,8 @@
 __precompile__()
 module DrinkGuiden
 
-# Package code goes here.
+include("datalayer.jl")
+include("logiclayer.jl")
+include("presentationlayer.jl")
 
 end
