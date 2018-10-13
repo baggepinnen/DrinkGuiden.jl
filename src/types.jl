@@ -1,7 +1,7 @@
+export Alcohol, Side, DrinkComponent, Recipe, DrinkBook, BarCabinet, Systembolag, Supermarket
+
 abstract type DataLayer end    # For dispatch
 abstract type Presenter end     # For dispatch
-
-
 abstract type Ingredient end
 
 struct Alcohol <: Ingredient
@@ -20,8 +20,7 @@ end
 
 struct Recipe
     name::String
-    alcohols::Vector{Alcohol}
-    sides::Vector{Side}
+    ingredients::Vector{DrinkComponent}
     description::String
 end
 
@@ -48,5 +47,12 @@ struct Supermarket
 end
 Supermarket(ing::Vector{Ingredient}) = Supermarket(sides(ing))
 
-alcohols(v) = [i for i in v if i isa Alcohol]
-sides(v) = [i for i in v if i isa Side]
+
+
+
+
+const ContainerType = Union{DrinkBook, BarCabinet, Systembolag, Supermarket}
+# All types in ContainerType implements push!, merge!
+
+const ElementType = Union{Ingredient, Alcohol, Side, DrinkComponent, Recipe}
+# All types in ElementType implements name(e), similarname(e)
