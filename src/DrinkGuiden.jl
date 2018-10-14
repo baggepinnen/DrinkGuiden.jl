@@ -10,4 +10,7 @@ include("logiclayer.jl")
 include("presentationlayer.jl")
 include("show.jl")
 
+
+include("main.jl") # Run the program
+
 end

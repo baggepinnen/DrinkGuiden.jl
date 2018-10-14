@@ -12,6 +12,7 @@ end
 # TODO: Menu items for save and load files
 
 
+
 # Presenter interface specification =====================
 error(p::Presenter, msg) = error("error not defined for ::$(typeof(p))")
 info(p::Presenter, msg) = error("info not defined for ::$(typeof(p))")
@@ -21,11 +22,13 @@ prompt(p::Presenter, ::YesNoCancel, msg)::YesNoCancel = error("yesnocancel not d
 
 # TerminalPresenter implementation
 error(p::TerminalPresenter, msg) = @error(msg)
-info(p::TerminalPresenter, msg) = @info(msg)
+info(p::TerminalPresenter, msg)  = @info(msg)
+
 function prompt(p::TerminalPresenter, msg)::String
     println(msg)
     readline(stdin)
 end
+
 function prompt(p::TerminalPresenter, ::YesNoCancel, msg)::YesNoCancel
     println(msg)
     print("yes/no/cancel (y/n/c)? ")
