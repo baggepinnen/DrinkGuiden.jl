@@ -75,7 +75,9 @@ function fuzzyin(item, collection)
     any(sim(c) for c in collection)
 end
 
-
+"""
+`push!`es all elements in `x2` into `x1`
+"""
 function Base.merge!(x1::T,x2::T) where T <: ContainerType
     foreach(e->push!(x1,e), x2)
 end
