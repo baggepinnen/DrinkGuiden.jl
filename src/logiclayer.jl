@@ -81,3 +81,35 @@ end
 function Base.merge!(x1::T,x2::T) where T <: ContainerType
     foreach(e->push!(x1,e), x2)
 end
+
+"""
+avaiable::DrinkBook, missing::DB = available_recipes(drinkbook::DrinkBook, cabinet::BarCabinet; ignore_missing_sides=false)
+
+Return two `DrinkBook`s with the drink recipes that can be mixed with the ingredients available in `cabinet`, and those that can't be mixed.
+"""
+function available_recipes(drinkbook::DrinkBook, cabinet::BarCabinet; ignore_missing_sides=false)
+    available = Recipe[]
+    missing = Recipe[]
+    for recipe in drinkbook
+        mixable = all(!component.mandatory ||
+            ignore_missing_sides && component isa Side ||
+            component.ingredient ∈ cabinet
+            for component in recipe)
+        mixable ? push!(available, recipe) : push!(missing, recipe)
+    end
+    DrinkBook(available), DrinkBook(missing)
+end
+
+function which_ingredient_to_buy(drinkbook::DrinkBook, cabinet::BarCabinet, depth=1; ignore_missing_sides=false)
+    error("Not yet implemented")
+    # TODO: perform tree seach of depth `depth` to find ingredients not in cabinet that would make the largest number of new recipes mixable
+    # Pseudo-code:
+    _, candidates = available_recipes(drinkbook, cabinet; ignore_missing_sides=ignore_missing_sides)
+    candidates = filter(recipe->countmissing(recipe, cabinet) <= depth, candidates)
+    for ingredient in missing_ingredients(cabinet, systembolag)
+        for recipe in drinkbook
+        end
+    end
+end
+
+countmissing(recipe, cabinet) = count(i->i ∉ cabinet, recipe.ingredients)
