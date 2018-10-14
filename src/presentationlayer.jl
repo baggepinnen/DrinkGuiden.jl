@@ -17,7 +17,7 @@ end
 error(p::Presenter, msg) = error("error not defined for ::$(typeof(p))")
 info(p::Presenter, msg) = error("info not defined for ::$(typeof(p))")
 prompt(p::Presenter, msg)::String = error("prompt not defined for ::$(typeof(p))")
-prompt(p::Presenter, ::YesNoCancel, msg)::YesNoCancel = error("yesnocancel not defined for ::$(typeof(p))")
+prompt(p::Presenter, ::Type{YesNoCancel}, msg)::YesNoCancel = error("yesnocancel not defined for ::$(typeof(p))")
 
 
 # TerminalPresenter implementation
@@ -29,7 +29,7 @@ function prompt(p::TerminalPresenter, msg)::String
     readline(stdin)
 end
 
-function prompt(p::TerminalPresenter, ::YesNoCancel, msg)::YesNoCancel
+function prompt(p::TerminalPresenter, ::Type{YesNoCancel}, msg)::YesNoCancel
     println(msg)
     print("yes/no/cancel (y/n/c)? ")
     r = lowercase(readline(stdin)[1])
